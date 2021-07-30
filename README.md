@@ -19,7 +19,7 @@
    
   ## Installation
   
-  Simply download or clone into a directory. Node is a prerequisite along with MySQL. Once installed run 'npm install'. Log into your SQL shell and create a database with 'source db/schema.sql'. Type 'USE ecommerce_db;' and exit the shell. From there 'npm run seeds' and you're good to go.
+  Simply download or clone into a directory. Node is a prerequisite along with MySQL. Once installed run 'npm install'. Log into your SQL shell and create a database with 'source db/schema.sql'. Type 'USE ecommerce_db;' and exit the shell. From there 'npm run seeds' and when you're ready to start the server use 'npm start'.
   
   ## Usage
 
